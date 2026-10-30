@@ -4,7 +4,7 @@ Project Overview
  This project documents my practical experience setting up and configuring a cybersecurity lab environment using Kali Linux and Oracle   VirtualBox as part of the NetworkWalks cybersecurity training program.
  The project involved virtual machine setup, network configuration, troubleshooting connectivity issues, and verifying network      connectivity.
 
-Objectives
+Objectives:
  Set up a virtualized cybersecurity lab environment.
  Install and configure Kali Linux.
  Understand and configure virtual network settings.
@@ -12,7 +12,7 @@ Objectives
  Perform network connectivity testing.
  Document the entire process with screenshots.
 
-Tools and Technologies Used
+Tools and Technologies Used:
   Operating System: Kali Linux
   Virtualization Software: Oracle VirtualBox
   Networking Tools: Ping, IP configuration utilities
@@ -41,7 +41,7 @@ Step 6: Final Lab Snapshot
 Captured the final snapshot documenting the completed lab environment.
 (Screenshot final-Snapshot.png)
 
-6. Conclusion
+ Conclusion
 This project provided valuable hands-on experience in building and configuring a cybersecurity lab environment.
 It strengthened my understanding of virtualization, Linux networking, IP connectivity, and practical troubleshooting.
 The exercise also highlighted the importance of systematic troubleshooting when diagnosing network connectivity issues.
